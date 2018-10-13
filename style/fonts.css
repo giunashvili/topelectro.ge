@@ -1,0 +1,66 @@
+@font-face {
+  font-family:'B Arial';
+  src:url('../fonts/BPG Arial/BPGArial.eot');
+  src:url('../fonts/BPG Arial/BPGArial.eot#iefix') format('embedded-opentype'),
+      url('../fonts/BPG Arial/BPGArial.woff') format('woff'),
+      url('../fonts/BPG Arial/BPGArial.woff2') format('woff2'),
+      url('../fonts/BPG Arial/BPGArial.ttf') format('truetype');
+}
+
+
+@font-face {
+  font-family:'Boxo';
+  src:url('../fonts/BPG Boxo/BPGBoxo-Boxo.eot');
+  src:url('../fonts/BPG Boxo/BPGBoxo-Boxo.eot#iefix') format('embedded-opentype'),
+      url('../fonts/BPG Boxo/BPGBoxo-Boxo.woff') format('woff'),
+      url('../fonts/BPG Boxo/BPGBoxo-Boxo.woff2') format('woff2'),
+      url('../fonts/BPG Boxo/BPGBoxo-Boxo.ttf') format('truetype');
+}
+
+@font-face {
+  font-family:'Glaho';
+  src:url('../fonts/BPG Glaho/BPGGlahoArialSPV5.eot');
+  src:url('../fonts/BPG Glaho/BPGGlahoArialSPV5.eot#iefix') format('embedded-opentype'),
+      url('../fonts/BPG Glaho/BPGGlahoArialSPV5.woff') format('woff'),
+      url('../fonts/BPG Glaho/BPGGlahoArialSPV5.woff2') format('woff2'),
+      url('../fonts/BPG Glaho/BPGGlahoArialSPV5.ttf') format('truetype');
+}
+
+@font-face {
+  font-family:'Nateli';
+  src:url('../fonts/BPG Nateli/BPGNateli.eot');
+  src:url('../fonts/BPG Nateli/BPGNateli.eot#iefix') format('embedded-opentype'),
+      url('../fonts/BPG Nateli/BPGNateli.woff') format('woff'),
+      url('../fonts/BPG Nateli/BPGNateli.woff2') format('woff2'),
+      url('../fonts/BPG Nateli/BPGNateli.ttf') format('truetype');
+}
+
+@font-face {
+  font-family:'Eka';
+  src:url('../fonts/Eka/Eka.eot');
+  src:url('../fonts/Eka/Eka.eot#iefix') format('embedded-opentype'),
+      url('../fonts/Eka/Eka.woff') format('woff'),
+      url('../fonts/Eka/Eka.woff2') format('woff2'),
+      url('../fonts/Eka/eka.ttf') format('truetype');
+}
+
+
+.B_Arial{
+  font-family: 'B Arial';
+}
+
+.Boxo{
+  font-family: 'Boxo';
+}
+
+.Glaho{
+  font-family:'Glaho';
+}
+
+.Nateli{
+  font-family:'Nateli';
+}
+
+.Eka{
+  font-family: 'Eka';
+}
